@@ -1,0 +1,28 @@
+-ZA RAD U LISTENER-U--------------------------
+alt+j ili alt+k - kretanje kroz history
+alt+l - autocomplete na osnovu history
+alt+i - paste zadnje pozvanog izraza
+alt+u - paste+evaluate zadnje pozvanog izraza
+----------------------------------------------
+
+-ZA PRACENJE REKURZIJA-
+trace
+untrace
+-----------------------
+
+-ZA STAMPANJE BEZ ODSECANJA-
+(pprint *)
+----------------------------
+
+-ZA PREKID AKTIVNE F-JE------------------------------
+alt+F9 pa abort ili break(pause) pa cancel pa cancel
+-----------------------------------------------------
+
+-ZA RAD U EDITORU---
+ctrl+e - evaluacija
+--------------------
+
+-ZA BENCHMARK-----------------------------------------------------------
+(time f-ja-koju-benchmarkujem) - meri vreme i memoriju izvrsavanja f-je
+------------------------------------------------------------------------
+
